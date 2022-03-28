@@ -1,0 +1,70 @@
+body{
+
+    background-color: burlywood;
+
+}
+
+#container{
+
+    width: 800px;
+    margin-top: 50px;
+    margin-left: 100px;
+    text-align: center;
+    background-color: white;
+}
+
+#cabecalho{
+
+    background-image: url("../Imgs/banner.jfif");
+    background-size: over;
+    padding-top: 30px;
+    width: 800px;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+
+}
+
+#menuHorizontal{
+    text-align: center;
+    background-color: black;
+    width: 800;
+    height: auto;
+    font-style: normal;
+    color: white;
+    font-size: 14px;
+    padding-top: 10;
+}
+
+#menuVertical{
+
+    text-align: center;
+    width: 200px;
+    float: left;
+    background-color: silver;
+    height: 300px;
+
+
+
+
+}
+
+#conteudo{
+width: 400px;
+float: left;
+background-color: white;
+height: 300px;
+}
+
+#rodape{
+
+    background-color: #6959cd;
+    width: 800;
+    height: 100;
+    clear: both;
+
+
+
+
+
+}
